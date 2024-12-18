@@ -1,4 +1,4 @@
-- 👋 Hi there! 👋 I'm Khushi Rani, a passionate B.Tech CSE (3rd Year) student eager to explore the endless possibilities of technology and innovation.
+- 👋 Hi there! 👋 I'm Khushi Rani, a passionate B.Tech CSE student eager to explore the endless possibilities of technology and innovation.
 
 - 🛠️ Tech Stack
   
